@@ -1,0 +1,29 @@
+.aboutImg img {
+  width: 100%;
+  margin-top: 150px;
+}
+.hoursOfOperation {
+}
+.hoursOfOperation li {
+  list-style-type: none;
+  margin: 20px;
+}
+.dayOfWeek {
+  font-weight: 800;
+  font-size: 120%;
+  margin-right: 14px;
+}
+.aboutInfo h2 {
+  color: red;
+  border-bottom: solid red 4px;
+  text-align: start;
+  margin-top: 40px;
+}
+.aboutText {
+  background-color: black;
+  color: white;
+  padding: 1px 40px 20px 40px;
+}
+.aboutText p {
+  margin: 20px auto;
+}

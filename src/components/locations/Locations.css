@@ -1,0 +1,41 @@
+.locations {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  color: white;
+}
+
+.locationsWrapper {
+  margin-top: 100px;
+}
+
+.locationsWrapper h1 {
+  margin: 50px auto;
+  width: 300px;
+  border-bottom: white solid 2px;
+}
+
+.locationsWrapper div {
+  margin: auto;
+  padding: 50px 0;
+  width: 300px;
+  border-bottom: white solid 2px;
+}
+
+.locationsWrapper div:first-child {
+  /* border-top: white solid 2px; */
+}
+
+.location h2 {
+  border-bottom: 20px;
+}
+
+button {
+  margin: 40px;
+  font-size: x-large;
+  padding: 15px;
+  background-color: orange;
+  border-radius: 10px;
+}
